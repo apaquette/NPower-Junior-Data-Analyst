@@ -1,9 +1,11 @@
 {pkgs ? import<nixpkgs> {config.allowUnfree = true;} }:
 
 pkgs.mkShell {
+  name = "python-env";
   buildInputs = [
     pkgs.fish
     pkgs.git
+    # VS Code with extensions
     (pkgs.vscode-with-extensions.override {
       vscodeExtensions = with pkgs.vscode-extensions; [
         ms-python.python
@@ -19,6 +21,8 @@ pkgs.mkShell {
         bbenoist.nix
       ];
     })
+
+    # Python environment
     (pkgs.python3.withPackages (python-pkgs: with python-pkgs; [
       pandas
       numpy
@@ -27,6 +31,8 @@ pkgs.mkShell {
       jupyter
       pip
       pytest
+      flake8
+      debugpy
     ]))
   ];
   shellHook =''
