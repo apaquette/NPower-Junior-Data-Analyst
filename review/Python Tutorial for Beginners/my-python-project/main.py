@@ -13,4 +13,4 @@ if __name__ == '__main__':
 
         days_and_unit = USER_INPUT.split(":")
         days_and_unit_dict = {"days": days_and_unit[0], "unit": days_and_unit[1]}
-        validate_and_execute(days_and_unit_dict)
+        helper.validate_and_execute(days_and_unit_dict)
