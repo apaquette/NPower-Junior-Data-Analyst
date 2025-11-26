@@ -34,3 +34,5 @@ def validate_and_execute(input_dict: dict):
             print("Invalid input: Must be a whole positive number.")
     except ValueError:
         print("Invalid input: Must be a whole positive number.")
+
+USER_INPUT_MESSAGE = "Enter a number of days and conversion unit.\n"
