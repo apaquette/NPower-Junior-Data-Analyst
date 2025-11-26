@@ -10,9 +10,18 @@ pkgs.mkShell {
     (pkgs.vscode.fhsWithPackages (ps: with ps; [
       python3
       jupyter
-      
       nix
-    ]))
+    ]) // { # this bit doesn't seem to work :(
+      vscodeExtensions = with pkgs.vscode-extensions.override; [
+        ms-python.python
+        ms-python.debugpy
+        ms-toolsai.jupyter
+        njpwerner.autodocstring
+
+        pkief.material-icon-theme
+        bbenoist.nix
+      ];
+    })
 
     # VS Code with extensions
     # (pkgs.vscode-with-extensions.override {
