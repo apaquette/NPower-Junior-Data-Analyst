@@ -51,6 +51,7 @@ pkgs.mkShell {
       pytest
       flake8
       debugpy
+      openpyxl
     ]))
   ];
 }
