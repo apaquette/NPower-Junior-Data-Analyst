@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "503c05ce017d235e",
+        "id": "9939a5bcb2d024b6",
         "type": "tabs",
         "children": [
           {
-            "id": "104ea70a1b86ebe2",
+            "id": "0c6af15cb32f2c36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junior Data Analyst Program.md",
+                "file": "Introduction to Data Analytics/Module 1 - What is Data Analytics?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Junior Data Analyst Program"
+              "title": "Module 1 - What is Data Analytics?"
             }
           }
         ]
@@ -183,16 +183,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "104ea70a1b86ebe2",
+  "active": "0c6af15cb32f2c36",
   "lastOpenFiles": [
+    "Introduction to Data Analytics/NPower/Intro to Data Analytics.md",
+    "Introduction to Data Analytics/Module 1 - What is Data Analytics?.md",
+    "Introduction to Data Analytics/NP`.md",
+    "Introduction to Data Analytics/NPower",
+    "Introduction to Data Analytics/Module 4 - Mining & Visualising Data and Communicating Results.md",
+    "Introduction to Data Analytics/IBM",
+    "Junior Data Analyst Program.md",
     "Instructors/Tanya-Theresa.md",
     "Instructors/Ken Mati-ong.md",
     "Instructors/David Thompson.md",
     "Introduction to Data Analytics/Module 3 - Gathering and Wrangling Data.md",
     "Introduction to Data Analytics/Module 2 - The Data Ecosystem.md",
-    "Introduction to Data Analytics/Module 1 - What is Data Analytics?.md",
-    "Introduction to Data Analytics/Module 4 - Mining & Visualising Data and Communicating Results.md",
-    "Junior Data Analyst Program.md",
     "Pasted image 20251202163459.png",
     "Introduction to Data Analytics"
   ]
