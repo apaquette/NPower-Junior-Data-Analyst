@@ -3,7 +3,7 @@
 pkgs.mkShell {
   name = "python-env";
   packages = [
-    pkgs.fish
+    # pkgs.fish
     pkgs.git
 
     # VS Code FHS
@@ -14,9 +14,10 @@ pkgs.mkShell {
     ]) // { # this bit doesn't seem to work :(
       vscodeExtensions = with pkgs.vscode-extensions.override; [
         ms-python.python
-        ms-python.debugpy
-        ms-toolsai.jupyter
-        njpwerner.autodocstring
+          ms-python.debugpy
+          ms-toolsai.jupyter
+          ms-python.pylint
+          ms-python.vscode-pylance
 
         pkief.material-icon-theme
         bbenoist.nix
@@ -29,14 +30,15 @@ pkgs.mkShell {
     #     ms-python.python
     #     ms-python.debugpy
     #     ms-toolsai.jupyter
-    #     ms-python.flake8
-    #     # ms-python.vscode-pylance
+    #     ms-python.pylint
+    #     ms-python.vscode-pylance
     #     # ms-python.black-formatter
-    #     # njpwerner.autodocstring
+    #     njpwerner.autodocstring
     #     # almenon.arepl
 
     #     pkief.material-icon-theme
     #     bbenoist.nix
+    #     jnoortheen.nix-ide
     #   ];
     # })
 

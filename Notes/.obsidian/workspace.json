@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "09cd579f53270ba5",
+    "type": "split",
+    "children": [
+      {
+        "id": "503c05ce017d235e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "104ea70a1b86ebe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Junior Data Analyst Program.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Junior Data Analyst Program"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b025346d8916b811",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2a2ba533bacff17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "060e4f7d85f4a7cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "95e513053b1a1111",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "84c274b62ce4a028",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3598cfc5ef47dcde",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2eb17b2a63c5681",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3d6138386a9ab8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Junior Data Analyst Program.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Junior Data Analyst Program"
+            }
+          },
+          {
+            "id": "72f2247ce0f8d2c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Instructors/Tanya-Theresa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tanya-Theresa"
+            }
+          },
+          {
+            "id": "f19aecc789a714a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3fdba4e03d216e0f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "62b8fc3eb263eed7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Instructors/Tanya-Theresa.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tanya-Theresa"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "104ea70a1b86ebe2",
+  "lastOpenFiles": [
+    "Instructors/Tanya-Theresa.md",
+    "Instructors/Ken Mati-ong.md",
+    "Instructors/David Thompson.md",
+    "Introduction to Data Analytics/Module 3 - Gathering and Wrangling Data.md",
+    "Introduction to Data Analytics/Module 2 - The Data Ecosystem.md",
+    "Introduction to Data Analytics/Module 1 - What is Data Analytics?.md",
+    "Introduction to Data Analytics/Module 4 - Mining & Visualising Data and Communicating Results.md",
+    "Junior Data Analyst Program.md",
+    "Pasted image 20251202163459.png",
+    "Introduction to Data Analytics"
+  ]
+}
