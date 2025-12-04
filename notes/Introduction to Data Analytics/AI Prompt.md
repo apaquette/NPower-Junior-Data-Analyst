@@ -1,0 +1,1 @@
+Ask an AI to list the various career paths in data analysis, including typical job titles and the industries hiring for them. Then ask for a summary of skillset required for these job titles to understand your skill gap.
