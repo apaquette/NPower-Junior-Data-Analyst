@@ -208,5 +208,6 @@ __marimo__/
 
 
 /.vscode
+# Obsidian
 /notes/.trash
-/notes/.obsidian/appearance.json
+/notes/.obsidian/
