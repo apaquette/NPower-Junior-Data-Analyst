@@ -1,3 +1,4 @@
+# Gathering Data
 ## Identifying Data
 - determine the information you want to collect
 - make decisions regarding
@@ -56,7 +57,7 @@
 - Some of the data sources you could be gathering data include databases, web, social media, interactive platforms, sensor devices, data exchanges, surveys and observation studies.
 - Data identified and gather is combined using tools and methods to provide a single interface using which data can be queried and manipulated.
 - The data identified, its source, and the practices employed for gathering have implications for quality, security, and privacy, which need to be considered.
-
+# Wrangling Data
 ## Data Wrangling
 - known as data munging
 - iterative process involving data exploration, transformation, validation, and availability for meaningful analysis

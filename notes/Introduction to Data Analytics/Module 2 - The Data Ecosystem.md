@@ -1,3 +1,4 @@
+# The Data Ecosystem and Languages for Data Professionals
 ## Analyst Ecosystem
 - infrastructure, software, tools, frameworks, and process to gather, clean, analyse, mine, and visualise data
 - Structured and unstructured data
@@ -133,6 +134,7 @@ Data professionals need a host of languages that can help them extract, prepare,
 - Programming languages: Python, R, Java
 - Shell and scripting languages: Unix/Linux Shell, PowerShell
 
+# Understanding Data Repositories and Big Data Platforms
 ## Data Repositories
 - Types of repositories: database, data warehouse, big data stores
 - Database: collection of data designed for input, storage, search and retrieval of data

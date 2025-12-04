@@ -1,3 +1,4 @@
+# Modern Data Ecosystem and the Role of Data Analytics
 ## Modern Data Ecosystem
 - Whole network of interconnected entities
 - Data that needs to be integrated from disparate sources
@@ -48,7 +49,7 @@ The process involves:
 Analysis - *detailed examination of elements or structure of something*
 Analytics - *systematic computational analysis of data or statistics*
 
-
+# The Data Analyst Role
 ## Responsibilities of a Data Analyst
 - Acquiring data (primary and secondary sources)
 - Creating queries for data extraction
