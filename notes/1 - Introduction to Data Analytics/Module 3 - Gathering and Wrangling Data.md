@@ -14,7 +14,6 @@
 - watch out for issues pertaining to data governance (security, regulation, compliance)
 - penalties for non-compliance ran run into millions of dollars
 - data privacy: data collected needs to check the boxes for confidentiality, license use, and compliance to mandated regulations
-
 ## Data Sources
 - can be internal or external
 - primary: information obtained directly from the source
@@ -24,7 +23,6 @@
 - surveys gather information through questionnaires distributed to groups of people
 - Census data is used for gathering household data
 - Interviews for gathering qualitative data
-
 ## How to Gather and Import Data
 - [[SQL]] offers simple commands to specify what data is retrieved from the database
 - Non-relational databases can be queried with SQL or SQL-like query tools
@@ -116,7 +114,6 @@
 		- helps aggregate large data sets quickly
 	- Jsonlite
 		- robust JSON parsing tool
-
 ## Data Cleaning
 - poor quality data weakens and undermines business objectives
 - poor data can lead to false conclusions and ineffective decisions
