@@ -42,3 +42,22 @@ Three fundamentals of Data Privacy
 
 # Cleaning Data
 ## Removing Duplicated or Inaccurate Data and Empty Rows
+- Spell Checking: use Spelling in the Review tab
+- Empty Rows: 
+	- CTRL+DOWN ARROW will take you to the next empty cell
+	- Filter on Data Tab can filter for Blanks
+- Duplicates
+	- Use conditional formatting to highlight duplicate values
+- Find & Replace
+	- used to repair misspelt names
+
+## Dealing with Inconsistencies
+- use functions (UPPER, LOWER, PROPER) to help change the case of text
+
+## Summary and Highlights
+- Important to remove duplicated or inaccurate data as well as empty rows
+- There are several types of data inconsistency you many need to resolve
+	1. Change the case of text
+	2. Fix date formatting errors
+	3. Trim whitespace from your data
+- You can use flash fill and text to columns to manipulate and standardise your data, as well as functions
