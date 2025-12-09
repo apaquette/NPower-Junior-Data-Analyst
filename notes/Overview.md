@@ -1,12 +1,11 @@
-# Overview
 - Zoom is used for all workshops.
 - Camera and Microphone usage is mandatory.
 - Use "I'm away" ☕  icon to indicate being away.
 
 ### Instructors
-- [[David Thompson]]
-- [[Ken Mati-ong]]
-- [[Tanya-Theresa]]
+- David Thompson
+- Ken Mati-ong
+- Tanya-Theresa
 
 ### Contact
 ***Team email***: [jdaregion3cA@npowercanada.ca](mailto:jdaregion3cA@npowercanada.ca "mailto:jdaregion3cA@npowercanada.ca")
