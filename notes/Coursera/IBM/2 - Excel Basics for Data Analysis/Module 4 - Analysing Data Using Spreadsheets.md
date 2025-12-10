@@ -57,7 +57,6 @@
 	- can search both vertical and horizontal ranges
 	- replaces both VLOOKUP and HLOOKUP with enhanced functionality
 	- used for data retrieval and error handling
-
 ## Summary and Highlights
 Before shaping your data, you need to visualize the final output, and ask yourself these questions:
 - How big is the dataset?
@@ -90,3 +89,44 @@ Excel Functions
 
 # Using Pivot Tables
 ## Creating Pivot Tables in Excel
+- provide a simple and quick way to summarize and analyze data
+- it is dynamic, it will update with the data
+- can be used to draw useful and relevant conclusions about data
+- your data must be formatted as a table first
+	- home > Styles > 'Format as Table'
+	- ensure you select 'My table has headers' if it does
+- tables automatically get filters added
+- data must be formatted before a pivot table can be used
+	- remove blank rows and columns
+	- eliminate blank cells
+
+## Pivot Table Features
+- Recommended Pivot Tables
+	- list of suggested combinations of data that could be used
+	- based on the data selected in the worksheet
+	- great way to get started
+- Can manually expand field to view their contents
+- pivot tables have in-built filtering
+
+## Summary and Highlights
+
+Pivot Tables:
+- Used to obtain usable and presentable insights into your data
+- Provide a simple and quick way to summarize and analyze data
+- As you change and add data to the original dataset, the analysis and summary information changes too
+- Can be used to draw useful and relevant conclusions about data
+
+Pivot Table Checklist:
+- Format  your data as a table
+- Ensure column headings are correct, and there is only one header row
+- Remove any blank rows and columns, and try to eliminate blank cells
+- Ensure value fields are formatted as numbers and not text
+
+Arranging Pivot Tables with Filters and Tables
+- Use pivot table fields to add and arrange data fields
+- Recommended Pivot Tables are a list of suggested combinations of data that could be used
+
+Filters and Slicers:
+- Slicers are on-screen graphical filter objects to filter data using button
+- Timelines are another type of filter tool to filter specifically on date-related data
+
