@@ -28,5 +28,18 @@ Scribe: Reza Dehaki
 
 2025-12-09
 Impediment: unable to click check boxes
-- Vaneet
+- Vaneet [fixed]
 - Murtuza
+
+Impediment: on MacOS
+- Jianpang
+
+2025-12-12
+
+## Week 2
+
+Can't export dashboard
+- Jagruti
+
+## Presentation
+- Intro to ML Concepts (Intro up to Multiclass Classification)

@@ -88,7 +88,7 @@ Excel Functions
 	- VLOOKUP, HLOOKUP
 
 # Using Pivot Tables
-## Creating Pivot Tables in Excel
+## [[Creating Pivot Tables in Excel]]
 - provide a simple and quick way to summarize and analyze data
 - it is dynamic, it will update with the data
 - can be used to draw useful and relevant conclusions about data
