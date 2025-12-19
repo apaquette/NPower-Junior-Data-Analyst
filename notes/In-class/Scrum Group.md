@@ -43,3 +43,23 @@ Can't export dashboard
 
 ## Presentation
 - Intro to ML Concepts (Intro up to Multiclass Classification)
+
+
+Introduction
+
+Machine learning models
+Types of machine learning models
+- Supervised machine learning
+- Unsupervised machine learning
+
+Regression
+- Overview
+- Evaluation Metrics
+
+Binary Classification
+- Overview
+- Eval metrics
+
+Multiclass classification
+- overview
+- eval metrics
