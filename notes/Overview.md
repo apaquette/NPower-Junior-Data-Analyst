@@ -12,7 +12,6 @@
 - **Before Training**: Self study content
 - **During Training**: Practice, apply, and implement new skills
 - **After Training**: Check your understanding and extend learning through assignments
-
 ### Potential Career Paths
 Senior roles:
 - Data Analyst
