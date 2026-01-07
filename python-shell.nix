@@ -24,24 +24,6 @@ pkgs.mkShell {
       ];
     })
 
-    # VS Code with extensions
-    # (pkgs.vscode-with-extensions.override {
-    #   vscodeExtensions = with pkgs.vscode-extensions; [
-    #     ms-python.python
-    #     ms-python.debugpy
-    #     ms-toolsai.jupyter
-    #     ms-python.pylint
-    #     ms-python.vscode-pylance
-    #     # ms-python.black-formatter
-    #     njpwerner.autodocstring
-    #     # almenon.arepl
-
-    #     pkief.material-icon-theme
-    #     bbenoist.nix
-    #     jnoortheen.nix-ide
-    #   ];
-    # })
-
     # Python environment
     (pkgs.python3.withPackages (python-pkgs: with python-pkgs; [
       pandas
@@ -49,7 +31,6 @@ pkgs.mkShell {
       matplotlib
       seaborn
       jupyter
-      pip
       pytest
       flake8
       debugpy
