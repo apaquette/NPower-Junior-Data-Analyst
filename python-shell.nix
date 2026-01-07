@@ -54,6 +54,7 @@ pkgs.mkShell {
       flake8
       debugpy
       openpyxl
+      xlrd
     ]))
   ];
 }
