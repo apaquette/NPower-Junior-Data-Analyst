@@ -51,3 +51,16 @@ APIs (Application Programming Interfaces) allow developers to create new applica
 # Web Scraping Tables using Pandas
 - pandas library contains function `read_html()`
 - can be used to extract tabular information from any web page
+# Summary
+- Simple APIs in Python are application programming interfaces that provide methods for interacting with services, libraries, or data
+- Rest APIs allow you to communicate through the internet, taking advantage of resources like storage, access more data, AI algorithms, and so on
+- The HTTP (HyperText Transfer Protocol) transfers data, including web pages and resources, between a client and a server
+- Requests is a Python library that allows you to send HTTP/1.1 requests
+- Web scraping involves extracting and parsing data from websites to gather information for various applications
+- Tabular data can be extracted from web pages using the `read_html` method in Pandas
+- Beautiful Soup in Python is a library for parsing and navigating HTML and XML documents
+- To parse a document, pass it through the Beautiful Soup constructor to get a beautiful soup object representing the document as a nested data structure
+- Beautiful soup represents HTML as a set of tree-like objects with methods to parse
+- Navigable string is like Python string that supports beautiful soup functionality
+- `find_all` is a method used to extract content based on the tag's name, its attributes, the text of a string, or a combination
+- The `find_all` method looks through a tag's descendants and retrieves all descendants that match your filters
