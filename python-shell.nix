@@ -5,6 +5,7 @@ pkgs.mkShell {
   packages = [
     # pkgs.fish
     pkgs.git
+    pkgs.wget
 
     # VS Code FHS
     (pkgs.vscode.fhsWithPackages (ps: with ps; [
