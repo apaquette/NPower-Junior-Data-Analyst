@@ -77,3 +77,9 @@ It helps ensure the data in a column is **valid, logical, and consistent** with 
 - Create views
 - Create stored procedures
 - Create triggers
+# Summary
+- a database is a repository of data that provides functionality for adding ,modifying, and querying data
+- SQL is a language used to query or retrieve data from a relational database
+- The Relational Model is the most used data model due to its data independence
+- The primary key uniquely identifies each row, preventing data duplication and providing a way of defining relationships between tables
+- SQL statements fall into two categories: Data Definition Language (DDL) statements and Data Manipulation Language (DML) statements
