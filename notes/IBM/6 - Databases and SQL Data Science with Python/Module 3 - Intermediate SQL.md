@@ -51,6 +51,10 @@
 	- DAY: extract day portion of a date
 - Date or time arithmetic
 	- DATE_ADD
+	- DATE_SUB: subtracts a specified time interval from a date
+		- modifies a date
+	- DATEDIFF: calculates the difference between two dates
+		- provides numerical result in days between two dates
 - Special Registers: CURRENT_DATE, CURRENT_TIME
 ## Sub-Queries and Nested Selects
 - like regular queries, but placed in parentheses and nested inside another query
