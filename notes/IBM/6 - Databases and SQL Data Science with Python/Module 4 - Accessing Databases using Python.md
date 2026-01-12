@@ -1,0 +1,63 @@
+# Accessing databases using Python
+## How to Access Databases Using Python
+- Python supports relational databases systems
+- Python Database API (DB-API) is used to access databases
+- Python connects to the database with API calls
+- SQL API consists of calls to interface with the DBMS
+	- CONNECT
+	- SEND
+	- EXECUTE
+	- STATUS_CHECK
+	- OK
+	- DISCONNECT
+- different databases require different APIs
+	- MySQL -> MySQL C API
+	- PostgreSQL -> psycopg2
+	- SQL Server -> dblib API
+	- etc...
+## Writing code using DB-API
+- DB-API: API calls between Python code and DBMS
+- DB-API is Python standard API for relational database
+- allows as single program to work with multiple kinds of relational databases
+- Connection Objects
+	- Database connections
+	- Manage transactions
+- Cursor Objects
+	- Database queries
+	- Scroll through result set
+	- Retrieve results
+- Connection methods
+	- .cursor()
+	- .commit()
+	- .rollback()
+	- .close()
+- Cursor methods
+	- .callproc()
+	- .execute()
+	- .executemany()
+	- etc...
+- Database cursor: control structure that enables transversal over records in database
+	- similar to file reader/writer for files
+## Accessing Databases with SQL Magic
+- Magic Statements: special commands in Jupyter notebooks that provide special functionality
+- Line Magics: commands that are prefixed with a single `%` character
+- Cell Magics: commands prefixed with `%%` characters
+- `%%HTML`: Write HTML code in cells and render
+- `%%javascript`: Write JavaScript code in cells
+- `%%bash cell`: Write bash commands
+- ipython-sql library allows SQL Magic in notebook
+- Enable SQL magic in Jupyter notebook: `%load_ext sql`
+## Analyzing data with Python
+- `pandas.read_sql(query, conn)` can execute a query on a database
+- the results of the query can be saved in a dataframe
+- `df.describe()` to view summary statistics of dataframe
+## Summary
+- Magic commands are special commands that provide special functionalies
+- Cell magics are commands prefixed with two `%%` characters and operate on multiple input lines
+- DB APIs are commands prefixed with two `%%` characters and operate on multiple input lines
+- The two main concepts in the Python DB API are Connection Objects and Query Objects
+- A database cursor is a control structure enabling traversal over the records in a database
+- Pandas' methods are equipped with common mathematical and statistical methods
+- `pandas.read_csv()` function is used to read the database CSV file
+- `sqlite3.connect()` function is used to connect to a database
+- To use pandas to retrieve data from database tables, load data using read_sql method and select SQL Select Query
