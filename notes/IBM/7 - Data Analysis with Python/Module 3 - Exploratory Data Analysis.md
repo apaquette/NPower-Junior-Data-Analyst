@@ -40,5 +40,25 @@
 	- indicated by a somewhat level line trend
 	- not steep enough slope to indicate either negative or positive trend
 ## Correlation - Statistics
-
+- measure the strength of correlation between two features
+- correlation coefficient
+	- +1 large positive relationship
+	- -1 large negative relationship
+	- close to 0 no relationship
+- P-value
+	- < 0.001 strong certainty in result
+	- < 0.05 moderate certainty
+	- < 0.1 weak certainty
+	- > 0.1 no certainty
 # Summary
+- `describe()` function in pandas can quickly calculate key statistical measures (mean, std, etc.)
+- `value_count()` summarizes data in categorical data
+- Box plots offer visual representation of the numerical data's distribution
+- Scatter plots are excellent for exploring relationships between continuous variables
+- `groupby` in pandas explores the relationship between categorical values
+- use pivot tables and heat maps for data visualization
+- Correlation between variables is a statistical measure indicating how the change in one variable may be associated with another
+- Use scatter-plots combined with regression line to visualize relationships between variables
+- Pearson correlation is a key method for assessing correlation between continuous numerical variables
+- A correlation between 1 or -1 indicates a strong or negative correlation
+- P values less than 0.001 indicate a strong certainty in correlation
