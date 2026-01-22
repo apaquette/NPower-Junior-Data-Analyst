@@ -11,7 +11,7 @@
 - give short summaries about the sample and measures of the data
 - `describe()`: summarize stats using pandas
 - `value_counts()`: summarize categorical data
-- Box plots: great for visualising numerical data
+- Box plots: great for visualizing numerical data
 - Scatter plots
 	- each observation is represented as a point
 	- shows the relationship between two variables (predictor and target)
