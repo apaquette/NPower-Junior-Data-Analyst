@@ -1,11 +1,8 @@
 import pandas as pd
 import dash
 from dash import html, dcc
-from dash.dependencies import Input, Output, State
-import plotly.graph_objects as go
+from dash.dependencies import Input, Output
 import plotly.express as px
-from dash import no_update
-import datetime as dt
 
 app = dash.Dash(__name__)
 
