@@ -32,4 +32,3 @@
 	- `@app.callback(Output,Input)` decorator used on function
 	- Output: sets results returned from callback
 	- Input: provided to the callback function
-- 
