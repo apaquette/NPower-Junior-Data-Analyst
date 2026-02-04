@@ -40,7 +40,7 @@ Data wrangling
 	- Histograms
 	- Scatter plots
 	- Pie charts
-	- bar charst
+	- bar charts
 ## Building Dashboards
 - Current technology usage
 - Future technology trends
