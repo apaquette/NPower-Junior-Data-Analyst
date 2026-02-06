@@ -1,0 +1,29 @@
+# Generative AI for Data Analytics
+- Data generation and imputation
+	- Creates synthetic data sets and augments existing ones
+	- Fills in missing data
+- Transforming data representation
+	- Converts text into images
+	- Prepares data
+	- Automates and enhances data cleaning
+	- Transforms processes
+	- Streamlines raw data to actionable insights
+- Querying databases
+	- Formulates complex queries
+	- Optimizes database interactions
+	- Adapts to evolving data structures
+	- Empowers Q&A models
+- Interactive visualizations and storytelling
+	- Makes data visualizations informative
+	- Makes complex information accessible
+	- Simplifies and accelerates dashboard  creation
+	- Enhances storytelling in data analytics
+## Generative AI Tools for Data Analytics
+- RapidMiner
+- Tableau
+- IBM Cognos Analytics
+- Google AI's Imagen
+- DALL-E 2
+- StyleGAN2
+- Gato
+- etc...

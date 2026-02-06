@@ -1,0 +1,43 @@
+# Understanding the Role of a Data Analyst
+- Data professionals
+	- Data analysts translate data into insights
+	- Data scientists build models to predict results
+	- Data engineers extract, organize, and store data
+	- Other professionals use data and identify insights
+- What a data analyst does
+	- inspect and clean data
+	- translate data and numbers into actionable analyses
+	- identify correlations, find patterns, and apply statistical methods
+	- select and integrate data from various sources to improve predictive models
+	- visualize data to interpret and present findings
+	- *usually do not create models, but can*
+- Data analysts apply their specific skills to derive business insights from data
+- Gain relevant skills through certifications, classes, and portfolio development
+- Key skills: data manipulation, visualization, and using computational tools
+# Introduction to Data Analyst PC
+- IBM Data Analyst PC program can help build career-related skills more accessibly than a degree
+- The program contains nine courses that cover a variety of data science topics
+- The courses can be taken completely online and completed in a few months
+# Opportunities in Data Analytics
+- Data analysts are in demand in high-tech and many other industries
+- The role and working style of a data analyst can vary
+- Demand is growing in the US and worldwide across nearly all industries
+# Portfolio
+- Ideas for adding to the portfolio
+	- Free data project
+	- Competitions
+	- Blogs and vlogs
+	- Hobby projects
+- How to plan a strong project
+	- Check job listings to find out which skills are in demand
+	- Generate project ideas that use those skills
+	- Always choose real-world data sets for your project
+	- Clean and analyze your data
+- Use GitHub effectively
+	- Use basic HTML templates to make the code look professional
+	- Update the project frequently
+	- Make contributions to other users' projects and allow them to contribute to your projects
+- An excellent way to showcase your work and skills directly
+- Many types of work can be included in a portfolio
+- Can build new projects to strengthen your portfolio
+- It's helpful to use GitHub thoughtfully

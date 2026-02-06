@@ -1,0 +1,105 @@
+# Company and Industry Research
+- Visit the company's website
+	- History
+	- Keywords
+	- Careers
+	- Data
+- Chamber of Commerce and Better Business Bureau
+- Social Media accounts
+- Web search for news items
+- LinkedIn
+- Glassdoor
+- Plan an informational interview
+	- Research companies
+	- Identify professionals on social media
+	- Get a referral from a mutual (teacher, friend, etc.)
+- Conducting your interview
+	- Allow conversation to flow naturally
+	- Take notes
+	- Keep track of time
+# Networking Online and Off
+- Develop and improve your skill set
+- Stay on top  of trends
+- Keep a pulse on the job market
+- Meet prospective mentors, partners, and clients
+- LinkedIn
+	- 87% of recruiters use it
+	- 133 million users
+	- Over 200 countries worldwide
+- Networking Offline
+	- Local industry meetups
+	- Professional organizations
+	- Adult education classes
+	- Conferences
+	- Volunteering
+# Assessing job listings
+- Job listings sections
+	- Overview of company and role
+	- Responsibilities and tasks
+	- Requirements and qualifications
+		- Required, preferred, or optional
+- Full-time roles
+	- Work indefinitely
+	- Pay may be more regular
+	- Must comply with internal policies
+	- Entitled to company benefits
+	- Has different legal rights regarding firing and labor 
+- Contract roles
+	- Work for specified length of time
+	- Payment for services by hourly pay or by deliverables
+	- Receives minimal training
+	- Does not receive company benefits
+	- May not be covered by certain workplace protections
+- Warning flags
+	- Lack of clarity (job title, role, description)
+	- Unnecessary jargon
+	- Unrealistic expectations
+	- Evident bias or prejudice
+# Technical Review Fundamentals
+- Review technical concepts
+- Study further to solidify skills
+- Consider where to expand knowledge
+- Data Analyst fundamentals
+	- Identify patterns and trends
+	- Understand the business prblem
+	- Make specific recommendations
+- Insights
+	- Deep dives
+	- Quickly pivot and learn new techniques
+	- May need to employ machine learning
+- Data analysis
+	- Analyze historical data
+	- identify patterns and trends
+- Predictive analysis
+	- predict values or behaviours
+	- correct actions and strategic planning
+	- correlation doesn't imply causation
+- Pre-processing
+	- inconsistencies cause contamination
+	- can lead to wrong conclusions
+	- vet and clean data
+	- remove innacuracies
+- Data reporting
+	- gather and present data
+	- reports can be in various forms
+	- dashboards display key information
+- Data visualizations
+	- display charts and tables
+	- convey clear message
+	- good visualizations help build business strategy through insights
+- Statistics
+	- P-value
+	- Significance level
+	- Normal distribution
+	- T-statistic
+	- Z-statistic
+- SQL
+	- fundamental building block of relational databases
+	- normalization
+	- JOIN statements
+	- Data definition
+	- Data manipulation
+- Cloud computing
+- Machine Learning
+# Refreshing Essential Analytical Skills
+- 

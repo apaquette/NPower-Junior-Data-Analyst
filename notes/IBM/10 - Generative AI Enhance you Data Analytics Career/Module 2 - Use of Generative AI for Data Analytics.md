@@ -1,0 +1,69 @@
+# Generative AI for Data Insights
+- You can use gen AI tools to create Python code for various operations and draw insights from data
+- Can add features like univariate, bivariate, and multivariate analysis of the data
+- Can use hal9 to generate statistical representations of the data and find missing values
+# Generative AI for Data Visualization
+- You can use gen AI tools to
+	- create charts
+	- analyze data and generate insights
+	- get exploratory insights into relationships between variables
+	- create correlation matrices, boxplots, and histograms
+# Generative AI for Creating Dashboards
+- Gen AI streamlines the process of creating dashboards by automating intricate design choices
+- Some frameworks for developing dashboards are
+	- Dash
+	- ChatGPT
+	- Tableau AI and Einstein Copilot
+	- Akkio
+	- Thoughtspot
+	- DataSquirrel
+	- Sisense
+- Dash can interact with LLMs to create interactive and customizable dashboards
+- ChatGPT is not designed for dashboards but can produce dashboard code
+- Tableau AI can create dashboards by automating repetitive tasks using the Einstein Trust Layer
+- Akkio can create dashboards through specialized prompt engineering
+- ThoughtSpot can create interactive dashboards using natural language search
+- DataSquirrel  can auto-clean, analyze, visualize, and repeat data
+# Generative AI for Storytelling
+- Storytelling in data analytics is the art of transforming data into a compelling narrative
+- Critical aspects of storytelling in data analytics include
+	- data visualization
+	- logical organization
+	- contextualization
+	- engaging your audience
+	- anecdotes and examples
+	- audience-centric approach
+	- call to action
+- Some gen AI frameworks used to create compelling stories include
+	- Google Slides with Duet AI
+	- Generative Reports
+	- DesignerBot
+	- ChatGPT
+	- Google Bard
+- Google Slides with Duet Bard allows you to generate images, create slides, and summarize presentations
+- Generative Reports allow you to convert data into actionable insights
+- DesignerBot can create personalized presentations with swiftly
+- ChatGPT and Bard allow you to enhance content creation, refine narrative elements, and enhance the overall structure of a presentation
+# Considerations While Using Gen AI in Industries
+- Data scientists need to look into data, model, and ethical considerations while using gen AI models
+- The output's effectiveness depends on training and data quality
+- Data scientists need to select a model that provides both explainability and interpretability
+- Gen AI models can be misused for malicious activities
+- Specific industries have specific data, model, and ethical considerations
+# Challenges While Using Gen AI
+- Data processionals face various challenges
+- Technical challenges include
+	- data quality
+	- model interpretability
+	- computational resources
+	- lack of standardization
+- Organizational challenges
+	- skill gaps
+	- integration with systems
+	- change management
+	- measuring ROI
+- Cultural challenges
+	- risk aversion
+	- data sharing and collaboration
+	- trust and transparency issues
+	- continuous learning
